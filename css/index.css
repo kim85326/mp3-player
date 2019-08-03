@@ -714,6 +714,8 @@ footer {
   border-top: 0.2px solid #707070; }
   .song-item:last-child {
     border-bottom: 0.2px solid #707070; }
+  .song-item:hover {
+    background: rgba(0, 0, 0, 0.3); }
 
 .song-item .song-order,
 .song-item .song-name {
