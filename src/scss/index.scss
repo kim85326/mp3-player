@@ -226,6 +226,10 @@ footer {
     &:last-child {
         border-bottom: 0.2px solid #707070;
     }
+
+    &:hover {
+        background: rgba(black, 0.3);
+    }
 }
 
 .song-item .song-order,
